@@ -6,8 +6,8 @@ Welcome to my special repository! This is my GitHub profile README, designed to 
 
 ## 👨‍💻 About Me
 
-**Full Name:** Bayrambek Nuryyev  
-**Study Place:** [Please insert your university or institution name here]
+**Full Name:** Bayrambek Matchanov  
+**Study Place:** PDP university / TATU university
 
 I'm a passionate full-stack developer with a love for building impactful web applications and sharing knowledge with others. My journey in software development has equipped me with a solid foundation in both front-end and back-end technologies.
 
